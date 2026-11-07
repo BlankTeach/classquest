@@ -1,0 +1,1 @@
+{"routes": [{"path": "/", "title": "Game room"}, {"path": "/leaderboard", "title": "Class billboard"}, {"path": "/activity", "title": "Points history"}, {"path": "/teacher", "title": "Teacher dashboard"}, {"path": "/play/:game", "title": "Play a game"}, {"path": "/curriculum", "title": "Our curriculum"}]}
